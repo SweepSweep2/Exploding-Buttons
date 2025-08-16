@@ -1,0 +1,23 @@
+{
+	"geode": "4.7.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "sweep.explodingbuttons",
+	"name": "explodingbuttons",
+	"version": "v1.0.0",
+	"developer": "Sweep",
+	"description": "",
+	"resources": {
+		"files": [
+			"resources/*.wav",
+			"resources/*.gif"
+		]
+	},
+	"dependencies": {
+		"user95401.gif-sprites": ">=v2.0.0"
+	}
+}
